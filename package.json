@@ -1,0 +1,25 @@
+{
+  "name": "gradientgenerator",
+  "version": "1.0.0",
+  "description": "Electron wrapped web-application to generate CSS code for custom gradients",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaKnee/GradientGenerator.git"
+  },
+  "keywords": [],
+  "author": "YaKnee",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YaKnee/GradientGenerator/issues"
+  },
+  "homepage": "https://github.com/YaKnee/GradientGenerator#readme",
+  "devDependencies": {
+    "electron": "^40.4.1"
+  }
+}
